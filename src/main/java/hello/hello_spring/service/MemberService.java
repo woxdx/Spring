@@ -7,7 +7,7 @@ import hello.hello_spring.repository.MemoryMemberRepository;
 import java.util.List;
 import java.util.Optional;
 
-public class MemberService {
+public class MemberService { 
 
     private final MemberRepository memberRepository;
 
